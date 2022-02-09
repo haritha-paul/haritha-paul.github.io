@@ -1,36 +1,29 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "Haritha Paul"
+title: "Haritha Paul"
+description: "Hi, I'm Haritha Paul. Welcome to my mindspace."
+logo: 'assets/images/logotrans.png'
+favicon: 'assets/images/logotrans.png'
+baseurl: ''
+google_analytics: 'UA-132574461-1'
+disqus: 'haritha_paul'
+mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=1697f0b5cd23b8e7c374b14a3&amp;id=2c3b883d09'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: harithapaul97@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  haritha:
+    name: Haritha
+    display_name: Haritha
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
-
+    #gravatar: e33d66d6ab7986c4cf6f4d4e40e76583
+    email: harithapaul97@gmail.com
+    web: 
+    twitter: https://twitter.com/haritha_97
+    description: "Software Engineer|Computer Science Undergrad|WeTech Qualcomm Global Scholar"
+  
 # Plugins
 plugins:
   - jekyll-paginate
@@ -70,7 +63,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:
